@@ -1,0 +1,6 @@
+HomeworK JS1
+Variables: Son los espacios que se cvrean en una memoria para declarar ya sea una cadenam un numero, un booleano, etc.
+Strings, Es un tipo de variable que contiene letras, números y caracteres especiales.
+Funiones; Son procedimientos o programas que hacen una tareaespecíficasm algunas tienen argumentos que son como una especie de entrada que se da por medio del teclado para que vorra dicha función, el return devuelve algún valor y termina la función.
+Declaraciones IF: sin preguntas que hacen en el código que si cumplen la condición que se les da cumplen la el algoritmo que tengan dentro si no hacen otro algoritmo.
+Valores Booleanos. Un valor booleano es un valor de verdad de una variablo u operación puede ser verdadero (True) o Falso (False)
