@@ -1,0 +1,7 @@
+For es un repetidor de una orden o programa que vaya dentro de el contiene una variable que va aumentando de acuerdo a los que se ne cesite da a uno o dos y una varible hasta donde llegar para que el loop noquede infinito
+
+&& es el AND en las tablas de la verdad que sigmifica que cualquier valor que sea falso la expresión total es falsa
+
+|| es el OR en las tablas de la verdad que sigmifica que cualquier valor que sea Verdadero la expresión total es Verdadera o true
+
+! es la negasción lógica de algo por ejemplo si algo es true la negación es false.
