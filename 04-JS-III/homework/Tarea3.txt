@@ -1,0 +1,1 @@
+Arrays: Em esáñpl arreglo, es un tipo de variable que tiene 1 o nás posiciones o indices para guardar datos de tipo numerico, strings, booleano, objetos.
